@@ -7,9 +7,9 @@ This project checks for password leaks and give advice whether to carryon and us
 - requests 2.25.1 
 [install here](https://pypi.org/project/requests/)
 - you can use any of the recommended IDE 
-[PyCharm](https://www.jetbrains.com/pycharm/download/)
-[VS Code](https://code.visualstudio.com/download)
-[Sublime](https://www.sublimetext.com/download)
+([PyCharm](https://www.jetbrains.com/pycharm/download/), 
+[VS Code](https://code.visualstudio.com/download), 
+[Sublime](https://www.sublimetext.com/download))
 
 ## how to use
 - clone the project
